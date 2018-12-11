@@ -1,6 +1,1 @@
-This is nepal
-
-* updated 
-
-
-[google](https://google.com.uk)
+Update read me fiel 
